@@ -1,7 +1,7 @@
 # Jornada Devops de Elite
 ## Exercício Aula 3 - Terraform
 
-Este repositório contém um exemplo de IaaS feito com Terraform, uma ferramenta de infraestrutura como código (IaC) que permite criar, modificar e versionar infraestruturas de forma programática.
+Este repositório contém um exemplo de IaC feito com Terraform, uma ferramenta de infraestrutura como código (IaC) que permite criar, modificar e versionar infraestruturas de forma programática.
 
 O Terraform é uma ferramenta poderosa que ajuda a automatizar a criação e gerenciamento de recursos de infraestrutura em nuvem, como máquinas virtuais, redes, instâncias de bancos de dados e muito mais. Com o Terraform, é possível definir uma infraestrutura como um código, que pode ser armazenado, compartilhado e versionado como qualquer outro código-fonte.
 
